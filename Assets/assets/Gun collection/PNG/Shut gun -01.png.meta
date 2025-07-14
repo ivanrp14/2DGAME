@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 2242ad9b846aca74083788c6e8fd3596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4980717792978819842
+    second: Shut gun -01_0
+  - first:
+      213: 3342370079311785617
+    second: Shut gun -01_1
+  - first:
+      213: 8373906194140288419
+    second: Shut gun -01_2
+  - first:
+      213: 7692029124060536125
+    second: Shut gun -01_3
+  - first:
+      213: -2663570634985180151
+    second: Shut gun -01_4
+  - first:
+      213: 7353272222793594477
+    second: Shut gun -01_5
+  - first:
+      213: -4663152552772921964
+    second: Shut gun -01_6
+  - first:
+      213: -1906038070751100785
+    second: Shut gun -01_7
+  - first:
+      213: 3751175158349843207
+    second: Shut gun -01_8
+  - first:
+      213: -3462402276226815186
+    second: Shut gun -01_9
+  - first:
+      213: -875066751127495796
+    second: Shut gun -01_10
+  - first:
+      213: -4109602356140604097
+    second: Shut gun -01_11
+  - first:
+      213: 733774108001916412
+    second: Shut gun -01_12
+  - first:
+      213: -5154283954581860759
+    second: Shut gun -01_13
+  - first:
+      213: -7580747505730829904
+    second: Shut gun -01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shut gun -01_0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 4494
+        width: 2058
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b58f891701f1540800000000000000
+      internalID: 4980717792978819842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_1
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 4494
+        width: 2046
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ee545e0eb726e20800000000000000
+      internalID: 3342370079311785617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_2
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 4494
+        width: 2046
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5dc241157163470800000000000000
+      internalID: 8373906194140288419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3842
+        width: 1807
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d5695fbb39fba60800000000000000
+      internalID: 7692029124060536125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_4
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 3842
+        width: 1796
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904fb83ae98190bd0800000000000000
+      internalID: -2663570634985180151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_5
+      rect:
+        serializedVersion: 2
+        x: 5923
+        y: 3842
+        width: 1796
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66fb5890221c0660800000000000000
+      internalID: 7353272222793594477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3139
+        width: 1781
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495938ea577294fb0800000000000000
+      internalID: -4663152552772921964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_7
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 3139
+        width: 1769
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80828829746c85e0800000000000000
+      internalID: -1906038070751100785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_8
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 3139
+        width: 1770
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b46b39ee9de0430800000000000000
+      internalID: 3751175158349843207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1742
+        width: 2046
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2fff697313ffc0800000000000000
+      internalID: -3462402276226815186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_10
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1741
+        width: 2043
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5a481d632bd3f0800000000000000
+      internalID: -875066751127495796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1090
+        width: 1795
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3581224e62c7f6c0800000000000000
+      internalID: -4109602356140604097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_12
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 1091
+        width: 1794
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf555dcd9a3ee2a00800000000000000
+      internalID: 733774108001916412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 387
+        width: 1769
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e07a74d0e4878b0800000000000000
+      internalID: -5154283954581860759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shut gun -01_14
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 388
+        width: 1769
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14cfcde46cbc690800000000000000
+      internalID: -7580747505730829904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shut gun -01_0: 4980717792978819842
+      Shut gun -01_1: 3342370079311785617
+      Shut gun -01_10: -875066751127495796
+      Shut gun -01_11: -4109602356140604097
+      Shut gun -01_12: 733774108001916412
+      Shut gun -01_13: -5154283954581860759
+      Shut gun -01_14: -7580747505730829904
+      Shut gun -01_2: 8373906194140288419
+      Shut gun -01_3: 7692029124060536125
+      Shut gun -01_4: -2663570634985180151
+      Shut gun -01_5: 7353272222793594477
+      Shut gun -01_6: -4663152552772921964
+      Shut gun -01_7: -1906038070751100785
+      Shut gun -01_8: 3751175158349843207
+      Shut gun -01_9: -3462402276226815186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
